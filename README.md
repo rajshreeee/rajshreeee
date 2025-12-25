@@ -32,3 +32,8 @@
 <p align="center">
   <i>Pedantic about small details; the magic is in the fine print.</i>
 </p>
+
+
+<p align="center">
+  <b>PSST… see what I've been up to below 👇</b>
+</p>
