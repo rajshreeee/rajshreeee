@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**rajshreeee/rajshreeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="mee.png" width="150" alt="Chibi girl coding" style="border-radius: 15px; border: 2px solid #ccc;">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Hello, I'm Rajshree 👋</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Backend Engineer | ML Systems | M.Sc. in Intelligent Software Systems</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajshree-rai/">
+    <img src="https://img.shields.io/badge/LinkedIn-rajshree--rai-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:rajshreerai931@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+  </a>
+</p>
+
+
+## 👋 I am a ...
+
+- 👩‍💻 **Software Engineer** with 5+ years of experience building event-driven microservices.  
+- 🎓 Pursuing a Master's in **Intelligent Software Systems (EDISS program)**.  
+- 🔬 **Research Intern – Task Vector**: Studying task arithmetic to analyze task interference and model behavior.  
+- 🧩 **Research Project – Explainable AI (XAI)**: Layer-wise analysis of deep learning models to interpret and explain predictions.  
+- 🛠️ **Tech Stack**: Java, Python, Spring Boot, PyTorch, Kafka, Kubernetes, GraphQL, Oracle, MongoDB, React  
+
+
+
+<p align="center">
+  <i>Pedantic about small details; the magic is in the fine print.</i>
+</p>
