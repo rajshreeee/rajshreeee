@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="mee.png" width="150" alt="Chibi girl coding" style="border-radius: 15px; border: 2px solid #ccc;">
-</p>
+</p> -->
 
 <h3 align="center">Hello, I'm Rajshree 👋</h3>
 
